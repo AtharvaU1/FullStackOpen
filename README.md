@@ -1,2 +1,2 @@
 # Exercises from the FullStackOpen course. 
-<a href='fullstackopen.com/en> FullStackOpen </a>
+<a target="_blank" href="fullstackopen.com/en"> FullStackOpen </a>
