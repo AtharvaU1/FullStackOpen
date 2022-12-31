@@ -17,6 +17,36 @@
       "content": "GET and POST are the most important methods of HTTP protocol",
       "date": "2022-1-17T19:20:14.298Z",
       "important": true
+    },
+    {
+      "content": "Learning react from fullstackopen",
+      "date": "2022-11-25T12:54:29.620Z",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "running out of things to write",
+      "date": "2022-11-25T13:05:00.574Z",
+      "important": true,
+      "id": 5
+    },
+    {
+      "content": "checking network tab",
+      "date": "2022-11-25T13:26:21.008Z",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "checking if custom create returns Promise",
+      "date": "2022-11-26T15:35:33.814Z",
+      "important": false,
+      "id": 7
+    },
+    {
+      "content": "post test",
+      "date": "2022-12-29T10:14:45.860Z",
+      "important": true,
+      "id": 8
     }
   ]
 }

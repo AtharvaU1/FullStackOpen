@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.successfulOperation, .errorMsg {
+  border: 5px;
+  padding: 20px;
+}
+
+.successfulOperation {
+  color: green;
+  border-color: green;
+}
+
+.errorMsg {
+  color: red;
+  border-color: red;
+}

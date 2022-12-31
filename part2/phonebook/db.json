@@ -1,24 +1,25 @@
 {
-    "persons":[
-        { 
-            "name": "Arto Hellas", 
-            "number": "040-123456",
-            "id": 1
-        },
-        { 
-            "name": "Ada Lovelace", 
-            "number": "39-44-5323523",
-            "id": 2
-        },
-        { 
-            "name": "Dan Abramov", 
-            "number": "12-43-234345",
-            "id": 3
-        },
-        { 
-            "name": "Mary Poppendieck", 
-            "number": "39-23-6423122",
-            "id": 4
-        }
-    ]
+  "persons": [
+    {
+      "name": "Ada Lovelace",
+      "number": 83748167483,
+      "id": 2
+    },
+    {
+      "name": "checking post to server",
+      "id": 5,
+      "num": 69,
+      "number": 8282
+    },
+    {
+      "name": "testing notification",
+      "id": 3,
+      "number": 200
+    },
+    {
+      "name": "testing delete in different browsers",
+      "id": 4,
+      "number": 200
+    }
+  ]
 }
